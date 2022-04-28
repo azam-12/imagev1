@@ -3,6 +3,7 @@
 namespace Config;
 
 // Create a new instance of our RouteCollection class.
+// new
 $routes = Services::routes();
 
 // Load the system's routing file first, so that the app and ENVIRONMENT

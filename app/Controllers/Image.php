@@ -1,6 +1,7 @@
 <?php namespace App\Controllers;
 
 use Config\Validation;
+//new
 
 class Image extends BaseController
 {
